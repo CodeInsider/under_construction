@@ -14,8 +14,8 @@ bg:
   warning_technical_operations_in_progress: "Техническа поддръжка"
 
   label_dear_colleagues: "Уважаеми потребители!"
-  infromation_technical_operations_planing: "Redmine е в техническа поддръжка от %{time_start} до %{time_end}. Моля да завършите работата си в Redmine до началото на периода."
-  infromation_technical_operations_ends: "Техническата поддръжка е завършена. Redmine работи нормално."
-  infromation_technical_operations_emergency: "Redmine е в техническа поддръжка, която ще продължи до %{time_end}."
+  information_technical_operations_planing: "Redmine е в техническа поддръжка от %{time_start} до %{time_end}. Моля да завършите работата си в Redmine до началото на периода."
+  information_technical_operations_ends: "Техническата поддръжка е завършена. Redmine работи нормално."
+  information_technical_operations_emergency: "Redmine е в техническа поддръжка, която ще продължи до %{time_end}."
 
-  infromation_technical_operations_emergency_html: "Redmine е в техническа поддръжка, която ще продължи до <strong><nobr>%{time_end}</nobr></strong>"
+  information_technical_operations_emergency_html: "Redmine е в техническа поддръжка, която ще продължи до <strong><nobr>%{time_end}</nobr></strong>"
