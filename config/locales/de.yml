@@ -14,8 +14,8 @@ de:
   warning_technical_operations_in_progress: "Achtung, technische Wartungsarbeiten werden durchgeführt!"
 
   label_dear_colleagues: "Liebe Kollegen!"
-  infromation_technical_operations_planing: "Der Redmine Server wird für die Zeit vom %{time_start} bis %{time_end} gewartet! Bitte schließen Sie Ihre Aktivitäten bis zu diesem Zeitfenster ab."
-  infromation_technical_operations_ends: "Technische Wartungsarbeiten wurden abgeschlossen. Redmine arbeitet normal."
-  infromation_technical_operations_emergency: "Der Redmine Server ist unter Wartung bis %{time_end}."
+  information_technical_operations_planing: "Der Redmine Server wird für die Zeit vom %{time_start} bis %{time_end} gewartet! Bitte schließen Sie Ihre Aktivitäten bis zu diesem Zeitfenster ab."
+  information_technical_operations_ends: "Technische Wartungsarbeiten wurden abgeschlossen. Redmine arbeitet normal."
+  information_technical_operations_emergency: "Der Redmine Server ist unter Wartung bis %{time_end}."
 
-  infromation_technical_operations_emergency_html: "Der Redmine Server ist unter Wartung bis <strong><nobr>%{time_end}</nobr></strong>"
+  information_technical_operations_emergency_html: "Der Redmine Server ist unter Wartung bis <strong><nobr>%{time_end}</nobr></strong>"
